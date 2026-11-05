@@ -8,9 +8,7 @@
 
 ## Live Link
 
-**Not deployed:** The application is currently tested locally using `http://localhost:3000`.
-
-The project can be run locally using Node.js and Thunder Client.
+deployed link: https://bdf-lab-02-yt-2-as9q.vercel.app/books/
 
 ## Objective
 
