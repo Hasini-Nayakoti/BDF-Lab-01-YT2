@@ -7,6 +7,10 @@ const app = express();
 
 app.use(express.json());
 
+app.get("/", (req, res) => {
+  res.send("Lab-03 API is running successfully!");
+});
+
 const PORT = process.env.PORT || 3000;
 
 let db;
